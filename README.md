@@ -1,5 +1,20 @@
 # 🔐 Password Strength Checker with Python
 
+## Table of Contents
+1. [Overview](#overview)
+2. [Features](#features)
+3. [Installation and Usage](#installation-and-usage)
+   - [Requirements](#requirements)
+   - [Installation](#installation)
+   - [Usage](#usage)
+4. [Security Considerations](#security-considerations)
+5. [Future Improvements](#future-improvements)
+6. [Contributing](#contributing)
+7. [Conclusion](#conclusion)
+8. [Resources](#resources)
+
+---
+
 ### Overview
 
 The **Password Strength Checker** is a Python utility designed to evaluate the strength of user passwords and provide actionable feedback. It emphasizes the importance of password complexity and adherence to security standards like the **NIST SP 800-63B** guidelines, helping users understand how to create stronger, more secure passwords.
@@ -81,12 +96,15 @@ Contributions are welcome! To contribute:
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🔚 Conclusion
 
 The Password Strength Checker is a robust tool for evaluating the strength and security of passwords, offering real-time feedback and alignment with industry standards. By checking password complexity, calculating entropy, and preventing the use of weak passwords, it helps users create stronger and more secure credentials. This project is a valuable tool for anyone looking to improve password security, and it also serves as a foundation for further enhancements in password management and protection.
+
+---
+
+## 🛠️ Resources
+- [NIST SP 800-63B Guidelines](https://pages.nist.gov/800-63-3/sp800-63b.html)
+- [OWASP Password Policy](https://owasp.org/www-project-cheat-sheets/cheatsheets/Password_Policy_Cheat_Sheet.html)
+- [Python Official Documentation](https://docs.python.org/3/)
+- [GitHub Repository for Password Strength Checker](https://github.com/yourusername/password-strength-checker)
+- [Password Strength Meters Overview](https://www.schneier.com/academic/archives/2016/06/password_strength_meters.html)
